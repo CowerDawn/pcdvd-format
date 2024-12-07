@@ -10,3 +10,6 @@ to get started download pydub:
 Now you can use the converter.
 To use it, drag the music file you need into the directory with the converter.
 Then write this command: `python pcdvd-conv.py music.mp3 outputfile.pcdvd pcdvd`
+
+Here is the approximate sound of music in pcdvd format:
+https://drive.google.com/file/d/1k64WaLFM0viAuKt2NtFns8xYoYGFmzHv/view?usp=sharing
